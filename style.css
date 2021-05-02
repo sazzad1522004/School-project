@@ -1,0 +1,138 @@
+
+.nav img{
+    width: 198px;
+}
+.navc, .nav-link{
+    color: #000000;
+}
+.btn, .btn-get{
+    background-color: #21B573;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: none;
+
+}
+.nevi{
+  background-color: #F0FFF0;
+}
+.text-pic{
+    background-color: #F0FFF0;
+    Width: 1440px;
+    Height: 530px;
+}
+.text-pic .imga{
+    width: 554px;
+    height: 346px;
+    margin-top: 100px;
+}
+.text-col{
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+.text-col h6,h1,h5, .btn-get{
+    margin-top: 50px;
+}
+.text-col h1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.text-col h5{
+    color: #FD511A;
+}
+.text-col h6{
+    color: #6C6B6B;
+}
+.side{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.box img{
+    width: 66px;
+    height: 85px;
+}
+.box{
+    margin-top: 80px;
+    
+
+}
+.itest{
+    height: 150px;
+}
+.as, .bs, .cs, .ds{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+.box img{
+    margin: 20px 0px 15px 5px;
+
+}
+.as, .cs, .ds{
+    background-color: #F8FFFB;
+    border-radius: 5px;
+    text-align: center;
+}
+.bs{
+    box-shadow: 5px 5px 20px rgb(240, 240, 240);
+    border-radius: 5px;
+    text-align: center;
+}
+.card{
+    margin-top: 80px;
+    border: none;
+}
+.online{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+.grn-btn{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 50px;
+    padding: 4px 20px;
+}
+.po img{
+    width: 23px;
+    height: 23px;
+}
+.po{
+    margin-top: 40px;
+    
+    margin-bottom: 20px;
+}
+.testo{
+    font-family: 'Poppins', sans-serif;
+    margin-top: 50px;
+    text-align: center;
+}
+.mangimg img{
+    width: 120px;
+    height: 120px;
+}
+.bda{
+    margin-top: 80px;
+
+}
+.para{
+    width: 500px;
+    height: 120px;
+    margin-left: 40px;
+}
+.last-part{
+    
+    color: white;
+    width: 1440px;
+    height: 369px;
+    margin-top: 100px;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
